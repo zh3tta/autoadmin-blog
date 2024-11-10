@@ -26,7 +26,7 @@ The blog allows to show and filter all available categories, show by tags of ava
 ## Installation
 
 ```bash
-git clone https://github.com/byZhetta/autoadmin-blog.git
+git clone https://github.com/zh3tta/autoadmin-blog.git
 cd autoadmin-blog
 composer install
 npm install
